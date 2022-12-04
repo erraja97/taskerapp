@@ -2,7 +2,7 @@
 
 //controller for home route
 const home = (req, res) => {
-  res.send("This is home of Tasker App");
+  res.send("<h1>This is home of Tasker App</h1>");
 };
 
 //export controller
